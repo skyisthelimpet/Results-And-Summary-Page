@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blue-gradient {
+  background: linear-gradient(#7857ff, #2e2be9);
+}
+
+.blue-gradient-bg {
+    background-color: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+  }
+
+.circle-gradient {
+  background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+}
+
+.font-hanken {
+  font-family: "Hanken Grotesk";
+}
+
+.main-background {
+  background-color: hsl(221, 100%, 96%);
+}
+
+.light-red {
+  color: hsl(0, 100%, 67%);
+}
+.orangey-yellow {
+  color: hsl(39, 100%, 56%);
+}
+.green-teal {
+  color: hsl(166, 100%, 37%);
+}
+.cobalt-blue {
+  color: hsl(234, 85%, 45%);
+}
+
+.darky-blue{
+    color: hsl(224, 30%, 27%);
+}
+.darky-blue-bg{
+    background-color: hsl(224, 30%, 27%);
+}
