@@ -1,2 +1,2 @@
 # Results-And-Summary-Page
-Solution for frontendmentor challenge using tailwind. 
+Responsive result component using tailwindcss.
